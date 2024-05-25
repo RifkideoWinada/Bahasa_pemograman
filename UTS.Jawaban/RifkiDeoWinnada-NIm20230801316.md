@@ -18,7 +18,7 @@ Pernyataan if-else: Digunakan untuk memilih satu dari dua pernyataan berdasarkan
 Digunakan untuk memilih satu dari beberapa pernyataan berdasarkan nilai variabel tertentu.
 # Fungsi:
 Fungsi adalah blok kode yang dirancang untuk melakukan tugas tertentu. Fungsi dapat dipanggil dari mana saja dalam program dan dapat mengembalikan nilai.
-# Jelaskan konsep perulangan pernyataan (Looping Statement) di bawah ini:
+# 3. Jelaskan konsep perulangan pernyataan (Looping Statement) di bawah ini:
 int n = 1;
 cout << "Masukkan jumlah baris: ";
 cin >> n;
